@@ -57,4 +57,5 @@ dependencies:
     - pandas==1.4.1
     - pytz==2021.3
     - scipy==1.8.0
+    - pyBigWig==0.2.7
 prefix: /Users/AAYUSH/anaconda3/envs/ml4g_project1
